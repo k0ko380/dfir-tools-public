@@ -31,7 +31,7 @@ When using a folder, drop the folder that directly contains `private/` (iOS) or
 
 Download `TZVerify.exe` from [Releases](../../releases). No installation needed.
 
-**Drag & drop:** drag an image or folder onto `TZVerify.exe`.
+# **Drag & drop:** drag an image or folder onto `TZVerify.exe`.
 
 **Command line (cmd):**
 ```
