@@ -1,4 +1,4 @@
-# TZVerify — International Edition
+# Time Zone Verify — International Edition
 
 Timezone verification for forensic images and extracted file systems.
 
