@@ -1,4 +1,4 @@
-# TZVerify — Deutsche Ausgabe
+# Time Zone Verify — Deutsche Ausgabe
 
 Überprüfung der Zeitzone in forensischen Images und extrahierten Dateisystemen.
 
